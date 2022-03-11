@@ -2,7 +2,7 @@
 * Brute-force solution of the problem to find length of the longest substring without repeating characters.
 * https://leetcode.com/problems/longest-substring-without-repeating-characters/
 **/
-class LongestSubstringWithoutRepetitions {
+class LongestSubstringWithoutRepetitions_BruteForce {
     public int lengthOfLongestSubstring(String s) {        
         if (s == null || s.length() == 0) {
             return 0;
