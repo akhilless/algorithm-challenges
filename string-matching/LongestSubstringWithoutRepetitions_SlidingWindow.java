@@ -8,7 +8,7 @@ class LongestSubstringWithoutRepetitions_SlidingWindow {
             return s.length();
         }
         
-        Set<Character> chars = new HashSet<>();
+        java.util.Set<Character> chars = new java.util.HashSet<>();
         int length = 1;
         int maxLength = length;
         
