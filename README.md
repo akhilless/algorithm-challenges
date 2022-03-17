@@ -1,2 +1,2 @@
 # algorithm-challenges
-Solution to different algorithm problems
+Solutions to different algorithmic problems.
